@@ -6,9 +6,9 @@ remote_gwsis_dbuser = 'root'
 remote_gwsis_dbpwd = 'braddocks'
 
 # local Database Info
-local_gwsis_dbname = 'gwsis'
-local_gwsis_dbuser = 'root'
-local_gwsis_dbpwd = '<ce9rJBdqqc+(>'
+local_parkingmoving_dbname = 'parkingmovingdc'
+local_parkingmoving_dbuser = 'root'
+local_parkingmoving_dbpwd = ''
 
 # Salesforce 
 sf_grant_type = 'password'
